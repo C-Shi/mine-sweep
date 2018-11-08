@@ -1,0 +1,15 @@
+#board {
+  width: 520px;
+  margin: 0 auto;
+}
+
+#board div.row {
+  width: 100%;
+}
+
+#board div.row div.cell {
+  height: 50px;
+  width: 50px;
+  float: left;
+  border: 1px solid black
+}
