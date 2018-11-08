@@ -1,3 +1,11 @@
+.hit {
+  background-color: rgba(0, 255, 0, 0.7);
+  line-height: 50px;
+  text-align: center;
+  font-size: 2em;
+  transition: background-color .7s;
+}
+
 #board {
   width: 520px;
   margin: 0 auto;
